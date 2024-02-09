@@ -58,7 +58,7 @@ Target attribute: The target attribute can be used on the anchor element to spec
 Rel attribute: The rel attribute is used on the anchor and link elements to specify the relationship between the current document and the linked document. Possible values include stylesheet for CSS stylesheets, alternate for alternative representations of the current document, and next or prev for documents in a series.
 Href lang attribute: The href lang attribute is used to indicate the language of the linked document.
 Download attribute: The download attribute is used on the anchor element to specify that the linked file should be downloaded instead of being displayed in the browser.
-Ping attribute: The ping attribute is used on the anchor element to specify a list of URLs to send a ping to when the link is clicked.
+Ping attribute: The ping attribute is used on the anchor element to specify a list of URLs to send a ping to when the link is clicked..
 
 ✔ HTML Working with Graphics and Images
 
