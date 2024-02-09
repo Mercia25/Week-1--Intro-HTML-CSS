@@ -79,10 +79,6 @@ Track element ( <track> ): The track element is used to add subtitles or caption
 Source element ( <source> ): The source element is used inside the picture, audio, and video elements to provide multiple source files for the media content, allowing the browser to choose the best one based on the user's device and network conditions. The required src attribute specifies the source file, and the type attribute specifies the MIME type of the source file.
 Media attribute: The media attribute is used on the link, source, and style elements to specify the media query for each resource, allowing the browser to choose the best resource based on the user's device and media features. For example, media="(min-width: 600px)" specifies that the resource should be used when the viewport is at least 600 pixels wide.
 
-WEEK 2 NOTES✔😊
-UNIT 5-  Working with Graphics and Images
-
-
 📸📸📸Images
 
 📸When we want to add an image to a webpage, we use the image element, which is simply written as IMG. 
@@ -95,7 +91,17 @@ UNIT 5-  Working with Graphics and Images
 NOTE
 It does not matter whether the height or the width is specified first. In HTML, the order of attributes within an element can be whatever you prefer.
 
-📸😊Image Formats
+
+✔HTML Content Identification
+
+HTML provides elements and attributes that enable you to identify and structure different types of content on a web page. Here are five key elements and attributes related to content identification in HTML:
+Heading elements ( <h1> to <h6> ): The heading elements are used to structure the content of a web page by specifying the hierarchy of headings. <h1> is the most important heading, while <h6> is the least important.
+Section element ( <section> ): The section element is used to group and identify different sections of content on a web page, such as a chapter, a news article, or a FAQ section.
+Article element ( <article> ): The article element is used to identify a self-contained piece of content that can be syndicated or redistributed, such as a blog post, a news article, or a product description.
+Aside element ( <aside> ): The aside element is used to identify a piece of content that is related to the main content but can be separated from it, such as a sidebar, a pull quote, or an advertisement.
+Figure element ( <figure> ): The figure element is used to identify a group of media content and its caption, such as a photo, a video, or a code snippet. The figcaption element is used to specify the caption of the figure.
+These elements and attributes enable you to structure your content more effectively, improving the accessibility and search engine optimization of your web pages. By identifying different types of content, you can make your web pages more understandable and user-friendly.
+
 
 
 
